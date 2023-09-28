@@ -1,0 +1,126 @@
+body{
+			background: #e99ddf;
+		}
+		.row{
+			background: #f3efef;
+			padding: 10px;
+		}
+		.r{
+			padding-top: 10px;
+			
+		}
+    .container{
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+		input{
+			border: none;
+			overflow: hidden;
+		    border-color: Transparent; 
+		    margin:auto;
+		    padding: 5px;
+		    font-family: Lucida Console;
+		}
+		
+.buttonClass {
+	
+	font-size:22px;
+	font-family:Times New Roman;
+	width:132px;
+	height:48px;
+	border-width:1px;
+	color:#fff;
+	border-color:#d8c3c2;
+	font-weight:bold;
+	font-style:italic;
+	border-top-left-radius:18px;
+	border-top-right-radius:18px;
+	border-bottom-left-radius:18px;
+	border-bottom-right-radius:18px;
+	box-shadow: -7px 8px 22px 5px #8a2a21;
+	text-shadow: 0px 1px 25px #b87c78;
+	background:linear-gradient(#c62d1f, rgb(187, 219, 177));
+  }
+  
+  .buttonClass:hover {
+	background: linear-gradient(rgb(183, 209, 176), #8a6461);
+	
+  }
+				
+		
+		button{
+			visibility: hidden;
+			padding: 5px;
+		}
+		p{
+			text-align: justify;
+		}
+		td{
+			padding: 10px;
+		}
+		#name{
+			margin-top: 10%;
+			font-size: -webkit-xxx-large;
+			width: -webkit-fill-available;
+
+		}
+		.heading1{
+			font-size: large;
+			font-weight: bold;
+
+		}
+		.heading2{
+			font-size: large;
+			font-weight: bold;
+		}
+		.col-sm-8{
+			padding-left: 15%;
+		}
+		.col-sm-9{
+			padding-left: 14%;
+		}
+		li{
+			text-align: justify;
+		}
+		.glyphicon-envelope,.glyphicon-phone,.glyphicon-home{
+			float: left;
+			line-height: 2;
+
+		}
+        @media (min-width: 768px){
+			.col-sm-9 {
+			       width: 64%;
+			}
+		}
+		
+		#download{
+			visibility: visible;
+			text-align: center;
+			margin-top: 5px;
+		}
+		.lskills{
+			padding-left: 10px;
+		}
+		.rskills{
+          padding-left: 14%;
+		}
+		#sk{
+			margin: 3%;
+		}
+		.glyphicon-remove{
+			visibility: hidden;
+			color:black;
+		}
+		.badge-primary{
+			background: #007bff;
+		}
+		.badge{
+			color: white;
+		}
+		.m-5{
+			margin: 5px;
+		}
+		/*input:focus {
+          outline: 0px solid transparent;
+         }*/
+
